@@ -1,0 +1,25 @@
+# Simulink generated/cache
+*.slxc
+slprj/
+*.autosave
+
+# MATLAB temporary/backups
+*.asv
+*.m~
+*_backup.m
+
+# Local old versions
+archive_local/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated large results
+results/*.mat
+
+# OS
+.DS_Store
+Thumbs.db
